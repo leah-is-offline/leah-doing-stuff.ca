@@ -4133,7 +4133,7 @@ Created using IcoMoon - icomoon.io
     display: block;
     top: 0;
     height: 100% !important;
-    width: 300px;
+    width: 100px;
     right: 0;
     z-index: 1032;
     visibility: visible;
@@ -4157,7 +4157,7 @@ Created using IcoMoon - icomoon.io
       display: block;
       content: "";
       position: absolute;
-      width: 100%;
+      width: 50%;
       height: 100%;
       top: 0;
       left: 0;
@@ -5306,4 +5306,5 @@ a.credit {
 .creative-cv{
   color: #161b22;
 }
+
 
