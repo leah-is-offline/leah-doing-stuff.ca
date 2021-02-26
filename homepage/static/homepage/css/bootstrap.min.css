@@ -3296,6 +3296,7 @@ tbody.collapse.show {
 .navbar-nav {
     display: flex;
     flex-direction: column;
+    margin-right: 0px;
     padding-left: 0;
     margin-bottom: 0;
     list-style: none
@@ -3314,7 +3315,8 @@ tbody.collapse.show {
 .navbar-text {
     display: inline-block;
     padding-top: .5rem;
-    padding-bottom: .5rem
+    padding-bottom: .5rem;
+    margin-right: 5px;
 }
 
 .navbar-collapse {
