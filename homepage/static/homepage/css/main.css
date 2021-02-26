@@ -2239,9 +2239,14 @@ h4, .h4 {
     margin-top: -10px; }
 
 h5, .h5 {
-  font-size: 1.57em;
+  font-size: 1em;
   line-height: 1.4em;
-  margin-bottom: 15px; }
+  margin-bottom: 20px; }
+
+.h10 {
+    font-size: 2em;
+    line-height: 1.4em;
+    margin-bottom: 20px; }
 
 h6, .h6 {
   font-size: 1em;
