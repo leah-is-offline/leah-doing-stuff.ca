@@ -103,7 +103,7 @@ body {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    color: #212529;
+    color: #3c9750;
 }
 
 [tabindex="-1"]:focus {
@@ -3637,7 +3637,7 @@ tbody.collapse.show {
     flex-direction: column;
     min-width: 0;
     word-wrap: break-word;
-    background-color: rgb(230, 223, 223);
+    background-color: rgb(248, 246, 246);
     background-clip: border-box;
     border: 1px solid rgba(0, 0, 0, .125);
     border-radius: .25rem
@@ -6261,7 +6261,7 @@ a.bg-dark:hover {
 }
 
 .mb-0 {
-    font-size: larger;
+    font-size: large;
     margin-bottom: 0!important
 }
 
@@ -7870,6 +7870,7 @@ a.bg-dark:hover {
 }
 
 .text-center {
+    color: #000;
     text-align: center!important
 }
 
